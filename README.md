@@ -200,6 +200,9 @@ Development Tools
 - Razorpay Test Mode
 
 📁 Project Structure
+## 📁 Project Structure
+
+```text
 Mern-_Lab/
 │
 ├── backend/
@@ -251,6 +254,7 @@ Mern-_Lab/
 ├── .gitignore
 ├── package-lock.json
 └── walkthrough.md
+```
 
 💳 Razorpay Test Mode
 
