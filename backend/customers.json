@@ -1,0 +1,13 @@
+[
+  {
+    "id": "cust_9fi4vgm",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@shopkart.io",
+    "phone": "+1 (555) 234-5678",
+    "passwordHash": "$2a$10$N7xPSr7DiB9aF7x8N4pD0ur.3ffTOJSy.hrKom/jaeUiBEnLIpH6a",
+    "tier": "Gold Member",
+    "createdAt": "2024-01-15T08:30:00.000Z",
+    "ordersCount": 14,
+    "savedAddressesCount": 2
+  }
+]
